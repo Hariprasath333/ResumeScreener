@@ -225,8 +225,3 @@ docker-compose up --build
 - **API Key Confidentiality**: All API keys configured via environment variables (`.env`).
 - **PII Guardrails**: Candidate contact details isolated from matching prompt.
 - **Input Validation**: Strict MIME type checking and file size bounds.
-
----
-
-## 17. License
-MIT License. Developed for Smart Resume Screener Top 5% Implementation Blueprint.
