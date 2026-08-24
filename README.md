@@ -1,4 +1,5 @@
 # Smart Resume Screener 
+Deployed Link : https://resumescreener-oitz.onrender.com/
 
 An enterprise-grade, technically rigorous **Smart Resume Screener** system featuring automated structured document extraction, skill alias normalization, multi-layered deterministic scoring with mandatory requirement penalties, semantic similarity matching, LLM evidence reasoning, and an interactive recruiter dashboard.
 
