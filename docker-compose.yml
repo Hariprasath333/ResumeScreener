@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  smart-resume-screener:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: smart-resume-screener
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - LLM_PROVIDER=mock
+      - DATABASE_URL=sqlite:///./resume_screener.db
+    volumes:
+      - screener-data:/app/backend
+    restart: unless-stopped
+
+volumes:
+  screener-data:

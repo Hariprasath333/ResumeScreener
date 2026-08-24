@@ -1,0 +1,32 @@
+Alex Mercer
+Email: alex.mercer@devtech.io
+Phone: +1 (555) 234-5678
+Location: Austin, TX
+LinkedIn: linkedin.com/in/alexmercer-dev
+
+SUMMARY:
+Senior Backend Engineer with 5+ years of experience designing and implementing scalable distributed systems, Spring Boot microservices, and PostgreSQL database solutions in cloud environments.
+
+TECHNICAL SKILLS:
+- Languages: Java, Python, SQL
+- Frameworks: Spring Boot, Spring Data JPA, Hibernate, FastAPI
+- Databases: PostgreSQL, Redis, MySQL
+- Cloud & DevOps: AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD, Git
+- Architecture: REST APIs, Microservices, Event-Driven Architecture
+
+PROFESSIONAL EXPERIENCE:
+Senior Software Engineer | FinCloud Systems | Austin, TX
+Jan 2022 – Present (2+ years)
+- Architected and deployed 8 high-throughput Spring Boot REST microservices handling 2M daily requests.
+- Optimized production PostgreSQL query performance, reducing 95th percentile API response latency from 450ms to 120ms.
+- Built automated CI/CD deployment pipelines on AWS using Docker and GitHub Actions.
+
+Software Engineer | CloudScale Inc | San Jose, CA
+Jun 2019 – Dec 2021 (2.5 years)
+- Developed Java REST APIs for e-commerce payment processing platform.
+- Integrated Redis caching layer to handle peak holiday traffic loads with 99.99% uptime.
+- Worked with PostgreSQL and MySQL databases for transactional data storage.
+
+EDUCATION:
+Bachelor of Science in Computer Science
+University of Texas at Austin (2019) | GPA: 3.85 / 4.0

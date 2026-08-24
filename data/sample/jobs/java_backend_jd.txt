@@ -1,0 +1,27 @@
+Senior Java Backend Developer
+
+Company: FinTech Global
+Location: Remote / Austin, TX
+
+About the Role:
+We are looking for a Senior Java Backend Developer to build and scale core payment processing services.
+
+Mandatory Required Skills:
+- Java (3+ years experience)
+- Spring Boot
+- REST APIs
+- PostgreSQL database design and optimization
+
+Preferred Skills:
+- Apache Kafka event streaming
+- AWS Cloud infrastructure (EC2, S3)
+- Docker & Kubernetes
+
+Requirements:
+- Bachelor's degree in Computer Science or related field.
+- Minimum 3 years of hands-on software development experience.
+
+Responsibilities:
+- Architect and develop secure RESTful APIs using Spring Boot.
+- Optimize database queries and schema performance in PostgreSQL.
+- Collaborate with frontend engineers to integrate API services.

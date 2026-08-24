@@ -1,0 +1,26 @@
+Sarah Jenkins
+Email: sarah.jenkins@codeflow.io
+Phone: +1 (555) 876-5432
+Location: Denver, CO
+LinkedIn: linkedin.com/in/sarahjenkins-dev
+
+SUMMARY:
+Software Engineer with 3.5 years of experience developing robust backend services using Java, Spring Boot, REST APIs, and PostgreSQL. Passionate about clean code and API performance.
+
+TECHNICAL SKILLS:
+- Languages: Java, SQL, JavaScript
+- Frameworks: Spring Boot, Spring MVC, REST APIs
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools & Cloud: Docker, Git, Postman, Linux
+
+PROFESSIONAL EXPERIENCE:
+Java Backend Developer | DataWorks Solutions | Denver, CO
+Mar 2021 - Present (3.5 years)
+- Developed secure Spring Boot REST APIs for customer portal applications.
+- Engineered PostgreSQL database schemas and optimized indexing for query speed.
+- Collaborated with frontend team to integrate backend API endpoints.
+- Conducted unit and integration testing achieving 85% test coverage.
+
+EDUCATION:
+Bachelor of Science in Software Engineering
+Colorado State University (2021) | GPA: 3.7 / 4.0

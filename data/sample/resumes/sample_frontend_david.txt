@@ -1,0 +1,30 @@
+David Chen
+Email: david.chen@webcraft.dev
+Phone: +1 (555) 345-6789
+Location: Seattle, WA
+LinkedIn: linkedin.com/in/davidchen-ui
+GitHub: github.com/davidchen-ui
+
+SUMMARY:
+Frontend Engineer with 4 years of experience specializing in React, TypeScript, Next.js, and modern UI architecture.
+
+TECHNICAL SKILLS:
+- Languages: TypeScript, JavaScript, HTML5, CSS3
+- Frameworks: React, Next.js, Vue.js, Tailwind CSS
+- Tools: Vite, Webpack, Git, Figma, Jest
+
+PROFESSIONAL EXPERIENCE:
+Senior Frontend Developer | Nova UI Studios | Seattle, WA
+Jan 2022 - Present (2.5 years)
+- Built interactive dashboard interfaces using React, TypeScript, and Tailwind CSS.
+- Optimized frontend bundle size and web vitals performance scores.
+- Implemented state management using Zustand and React Query.
+
+Frontend Developer | PixelCraft Media | Seattle, WA
+Jun 2020 - Dec 2021 (1.5 years)
+- Developed responsive web applications using React and CSS modules.
+- Created reusable component libraries for design systems.
+
+EDUCATION:
+Bachelor of Arts in Interactive Digital Media
+University of Washington (2020)

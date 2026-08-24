@@ -1,0 +1,22 @@
+Sarah Chen
+Email: sarah.chen@frontend.dev
+Location: Seattle, WA
+GitHub: github.com/sarahchen-ui
+
+SUMMARY:
+Frontend Engineer with 3+ years of expertise in React, TypeScript, Redux, and modern web application development.
+
+TECHNICAL SKILLS:
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+- Frontend: ReactJS, Next.js, Redux Toolkit, Tailwind CSS, Material UI
+- Testing & Tools: Jest, React Testing Library, Webpack, Vite, Git, Figma
+
+PROFESSIONAL EXPERIENCE:
+Frontend Developer | WebCraft Studios
+Mar 2021 – Present (3 years)
+- Built interactive SaaS recruiter dashboard UI using ReactJS, TypeScript, and Tailwind CSS.
+- Improved frontend bundle render performance by 40% using code splitting and Vite.
+- Integrated REST API endpoints with Redux state management.
+
+EDUCATION:
+B.S. in Software Engineering — University of Washington (2021)
