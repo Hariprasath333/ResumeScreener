@@ -1,4 +1,4 @@
-# Smart Resume Screener — Top 5% Implementation Blueprint
+# Smart Resume Screener 
 
 An enterprise-grade, technically rigorous **Smart Resume Screener** system featuring automated structured document extraction, skill alias normalization, multi-layered deterministic scoring with mandatory requirement penalties, semantic similarity matching, LLM evidence reasoning, and an interactive recruiter dashboard.
 
